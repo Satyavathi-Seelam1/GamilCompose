@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">GmailCompose</string>
+  <string name="welcome_title">Welcome to Gmail</string>
+  <string name="welcome_1_desc">One app for all of your emails</string>
+  <string name="welcome_2_desc">Gmail lets you get straight to the good stuff by sorting out Promotional and Social emails.</string>
+  <string name="done">DONE</string>
+  <string name="skip">SKIP</string>
+  <string name="add_email_desc">You can now add all of your email addresses.</string>
+  <string name="learn_more">Learn more</string>
+  <string name="take_me_gmail">TAKE ME TO GMAIL</string>
+  <string name="add_email">Add an email address</string>
+  <string name="google">Google</string>
+  <string name="outlook">Outlook, Hotmail and Live</string>
+  <string name="yahoo">Yahoo</string>
+  <string name="exchange">Exchange and Office 365</string>
+  <string name="other">Other</string>
+  <string name="set_up_email">Set up email</string>
+  <string name="next">Next</string>
+  <string name="forgot_email">Forgot email?</string>
+  <string name="create_account">Create account</string>
+  <string name="sign_in">Sign in</string>
+  <string name="with_google_account">with your Google Account.</string>
+  <string name="forgot_password">Forgot password?</string>
+  <string name="show_password">Show password</string>
+  <string name="enter_password">Enter Password</string>
+  <string name="enter_email">Enter Email</string>
+</resources>
